@@ -83,7 +83,7 @@ case 1:
 }
 default:
 	{
-		cout<<"invalid......";
+		cout<<"invalid......get f0";
 		break;
 }
 }
